@@ -1,1 +1,3 @@
 # Ejercicios
+
+Ejercicios de aprendizaje.
