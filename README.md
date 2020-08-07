@@ -1,3 +1,7 @@
-# Ejercicios
+# Comandos utiles
 
-Ejercicios de aprendizaje.
+## Compilar
+
+``` bash
+g++ -o NOMBRE_EJECUTABLE_SALIDA NOMBRE_ARCHIVO_CODIGO
+```
